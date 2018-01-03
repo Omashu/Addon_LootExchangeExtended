@@ -43,3 +43,7 @@ enum class e_money_type : uint8_t
     num
 };
 ```
+
+### Additional
+https://github.com/goodwinxp/Yorozuya
+https://github.com/gabime/spdlog
