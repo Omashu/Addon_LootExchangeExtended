@@ -1,7 +1,7 @@
-# Addon For YorozuyaGS
+### Addon For YorozuyaGS
 https://github.com/goodwinxp/Yorozuya
 
-# Configure `global.json`
+### Configure `global.json`
 
 ```
 {
@@ -14,7 +14,7 @@ https://github.com/goodwinxp/Yorozuya
 }
 ```
 
-# Configure `loot_exchange_extended.json`
+### Configure `loot_exchange_extended.json`
 
 ```
 [
@@ -28,7 +28,7 @@ https://github.com/goodwinxp/Yorozuya
 ]
 ```
 
-# Money types
+### Money types
 
 ```
 enum class e_money_type : uint8_t
